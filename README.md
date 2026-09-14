@@ -46,7 +46,6 @@ I enjoy working with data, building machine learning models, and solving practic
 ## 📚 Currently Learning
 
 * Machine Learning
-* Advanced Scikit-learn
 * Model Optimization
 * MLOps
 * Data Engineering
