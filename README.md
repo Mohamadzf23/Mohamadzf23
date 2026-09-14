@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Mohamadreza 👋
 
-<!--
-**Mohamadzf23/Mohamadzf23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a Python developer focused on **Data Science and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, building machine learning models, and solving practical problems with data-driven approaches.
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming**
+
+* Python
+* SQL
+
+**Data Science**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+**Machine Learning**
+
+* Scikit-learn
+* Regression
+* Classification
+* Feature Engineering
+* Model Evaluation
+* Hyperparameter Tuning
+
+**Database**
+
+* PostgreSQL
+
+**Tools**
+
+* Git
+* GitHub
+* Jupyter
+
+---
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Advanced Scikit-learn
+* Model Optimization
+* MLOps
+* Data Engineering
+
+---
+
+## 🎯 Career Goal
+
+Building strong practical skills in **Data Science and Machine Learning** and developing production-oriented machine learning solutions.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [@Mohamadzf23](https://github.com/Mohamadzf23)
