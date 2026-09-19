@@ -1,63 +1,101 @@
-# Hi, I'm Mohamadreza 👋
+# 👋 Hi, I'm Mohamadreza Zafari
 
-### Junior Data Scientist | Machine Learning Enthusiast
+### 🎓 B.Sc. in Computer Engineering
 
-I'm a Python developer focused on **Data Science and Machine Learning**.
+### 📊 Data Analyst | 🤖 Machine Learning Enthusiast
 
-I enjoy working with data, building machine learning models, and solving practical problems with data-driven approaches.
+I’m passionate about **Data Analysis and Machine Learning**, with a focus on transforming data into meaningful insights and building practical machine learning solutions.
+
+I enjoy working across the data workflow, from **data preprocessing and exploratory data analysis** to **feature engineering, model development, evaluation, and optimization**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Programming**
+### 🐍 Programming & Data Science
 
-* Python
-* SQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+</p>
 
-**Data Science**
+**Python · NumPy · Pandas · Matplotlib · Seaborn**
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
+---
 
-**Machine Learning**
+### 🤖 Machine Learning
 
-* Scikit-learn
-* Regression
-* Classification
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Tuning
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="45" alt="Scikit-learn"/>
+</p>
 
-**Database**
+**Scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation · Cross-Validation · Hyperparameter Tuning · Machine Learning Pipelines**
 
-* PostgreSQL
+---
 
-**Tools**
+### 🗄️ Databases & SQL
 
-* Git
-* GitHub
-* Jupyter
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+</p>
+
+**SQL · PostgreSQL · MySQL**
+
+---
+
+### 🔧 Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+**Jupyter Notebook · Git · GitHub**
+
+---
+
+## 💡 Areas of Interest
+
+📊 Data Analysis
+🤖 Machine Learning
+🧹 Data Cleaning & Preprocessing
+🛠️ Feature Engineering
+📈 Predictive Modeling
+🗄️ SQL & Database Management
+⚙️ Model Optimization & Evaluation
 
 ---
 
 ## 📚 Currently Learning
 
-* Machine Learning
-* Model Optimization
-* MLOps
-* Data Engineering
+* Advanced Data Analysis with Python
+* Machine Learning & Model Optimization
+* SQL & Database Management
+* Machine Learning Pipelines
+* Model Evaluation & Selection
 
 ---
 
-## 🎯 Career Goal
+## 🚀 My Approach
 
-Building strong practical skills in **Data Science and Machine Learning** and developing production-oriented machine learning solutions.
+I believe in learning by building.
+
+I focus on **hands-on projects**, experimenting with different approaches, comparing models, and continuously improving my understanding through practical work.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-* GitHub: [@Mohamadzf23](https://github.com/Mohamadzf23)
+<p>
+  <a href="https://github.com/Mohamadzf23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
