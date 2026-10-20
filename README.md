@@ -2,11 +2,11 @@
 
 ### 🎓 B.Sc. in Computer Engineering
 
-### 📊 Data Analyst | 🤖 Machine Learning Enthusiast
+### 📊 Data Analyst | 🤖 Machine Learning & Deep Learning Enthusiast
 
-I’m passionate about **Data Analysis and Machine Learning**, with a focus on transforming data into meaningful insights and building practical machine learning solutions.
+I'm passionate about **Data Science, Machine Learning, and Deep Learning**, with an interest in building data-driven solutions and understanding the algorithms behind intelligent systems.
 
-I enjoy working across the data workflow, from **data preprocessing and exploratory data analysis** to **feature engineering, model development, evaluation, and optimization**.
+My focus includes the complete machine learning workflow, from **data preprocessing and exploratory data analysis** to feature engineering, model development, evaluation, and optimization. I'm also expanding my knowledge of neural networks, computer vision, natural language processing, and large language models.
 
 ---
 
@@ -23,6 +23,11 @@ I enjoy working across the data workflow, from **data preprocessing and explorat
 
 **Python · NumPy · Pandas · Matplotlib · Seaborn**
 
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Data Visualization
+- Data Transformation & Feature Engineering
+
 ---
 
 ### 🤖 Machine Learning
@@ -31,7 +36,45 @@ I enjoy working across the data workflow, from **data preprocessing and explorat
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="45" alt="Scikit-learn"/>
 </p>
 
-**Scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation · Cross-Validation · Hyperparameter Tuning · Machine Learning Pipelines**
+**Scikit-learn · Supervised Learning · Unsupervised Learning**
+
+- Linear & Logistic Regression
+- Classification & Regression
+- Decision Trees, Random Forests & Ensemble Learning
+- K-Nearest Neighbors (KNN)
+- Clustering & K-Means
+- Dimensionality Reduction & PCA
+- Cross-Validation & Model Evaluation
+- Hyperparameter Tuning
+- Regularization: Lasso & Ridge
+- Machine Learning Pipelines
+
+---
+
+### 🧠 Deep Learning & Neural Networks
+
+**Core Concepts**
+
+- Artificial Neural Networks (ANNs)
+- Perceptrons & Deep Neural Networks
+- Backpropagation & Gradient-Based Optimization
+- Activation Functions & Loss Functions
+- Adam & Gradient Descent
+- Batch Normalization & Dropout
+- Bias–Variance Trade-off & Generalization
+
+**Areas of Study**
+
+- Convolutional Neural Networks (CNNs)
+- Computer Vision
+- Autoencoders & Variational Autoencoders (VAEs)
+- Natural Language Processing (NLP)
+- Word Embeddings & Word2Vec
+- Attention & Self-Attention
+- Transformer Architecture
+- BERT, GPT & Large Language Models (LLMs)
+- Vision Transformers (ViT)
+- Self-Supervised & Contrastive Learning
 
 ---
 
@@ -42,11 +85,11 @@ I enjoy working across the data workflow, from **data preprocessing and explorat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 </p>
 
-**SQL · PostgreSQL · MySQL**
+**SQL · PostgreSQL · MySQL · T-SQL**
 
 ---
 
-### 🔧 Tools
+### 🔧 Tools & Development
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
@@ -54,37 +97,30 @@ I enjoy working across the data workflow, from **data preprocessing and explorat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
-**Jupyter Notebook · Git · GitHub**
+**Jupyter Notebook · Git · GitHub · Scikit-learn**
 
 ---
 
 ## 💡 Areas of Interest
 
-📊 Data Analysis
-🤖 Machine Learning
-🧹 Data Cleaning & Preprocessing
-🛠️ Feature Engineering
-📈 Predictive Modeling
-🗄️ SQL & Database Management
-⚙️ Model Optimization & Evaluation
-
----
-
-## 📚 Currently Learning
-
-* Advanced Data Analysis with Python
-* Machine Learning & Model Optimization
-* SQL & Database Management
-* Machine Learning Pipelines
-* Model Evaluation & Selection
+- 📊 Data Analysis & Statistical Modeling
+- 🤖 Machine Learning & Predictive Analytics
+- 🧠 Deep Learning & Neural Networks
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- 🔤 Transformers & Large Language Models
+- ⚙️ Model Evaluation & Optimization
+- 🗄️ SQL & Database Management
 
 ---
 
 ## 🚀 My Approach
 
-I believe in learning by building.
+I believe in **understanding the fundamentals and learning through practice**.
 
-I focus on **hands-on projects**, experimenting with different approaches, comparing models, and continuously improving my understanding through practical work.
+I enjoy exploring how machine learning algorithms work, understanding the mathematics behind model training, comparing different approaches, and improving model performance through systematic evaluation and experimentation.
+
+My goal is to keep strengthening my skills in **Data Science, Machine Learning, and Deep Learning** while developing practical solutions to real-world problems.
 
 ---
 
@@ -93,6 +129,9 @@ I focus on **hands-on projects**, experimenting with different approaches, compa
 <p>
   <a href="https://github.com/Mohamadzf23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamadzf23/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
