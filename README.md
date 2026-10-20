@@ -23,11 +23,6 @@ My focus includes the complete machine learning workflow, from **data preprocess
 
 **Python · NumPy · Pandas · Matplotlib · Seaborn**
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis & Data Visualization
-- Data Transformation & Feature Engineering
-
 ---
 
 ### 🤖 Machine Learning
@@ -37,17 +32,6 @@ My focus includes the complete machine learning workflow, from **data preprocess
 </p>
 
 **Scikit-learn · Supervised Learning · Unsupervised Learning**
-
-- Linear & Logistic Regression
-- Classification & Regression
-- Decision Trees, Random Forests & Ensemble Learning
-- K-Nearest Neighbors (KNN)
-- Clustering & K-Means
-- Dimensionality Reduction & PCA
-- Cross-Validation & Model Evaluation
-- Hyperparameter Tuning
-- Regularization: Lasso & Ridge
-- Machine Learning Pipelines
 
 ---
 
