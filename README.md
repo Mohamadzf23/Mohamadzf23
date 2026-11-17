@@ -214,8 +214,7 @@ I'm also expanding my knowledge of **Deep Learning** and exploring **Web Develop
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="55" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="55" alt="GitHub"/>
-  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="55" alt="GitHub"/>  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="55" alt="Jupyter Notebook"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="55" alt="VS Code"/>
