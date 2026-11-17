@@ -230,41 +230,42 @@ I'm also expanding my knowledge of **Deep Learning** and exploring **Web Develop
 <!--                CURRENT LEARNING                 -->
 <!-- ═══════════════════════════════════════════════ -->
 
+
 <h2 align="center">CURRENTLY EXPLORING</h2>
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/deep-learning.png" width="55"/>
+<a href="https://img.icons8.com/fluency/256/brain.png">
+  <img src="https://img.icons8.com/fluency/96/brain.png" width="55" alt="Brain icon for Deep Learning" />
+</a>
 
-**Deep Learning**
+<strong>Deep Learning</strong>
 
 <sub>Neural Network Architectures</sub>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55" alt="Artificial intelligence icon" />
 
-**Modern AI**
+<strong>Modern AI</strong>
 
 <sub>CNN · NLP · Transformers</sub>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/96/web-design.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="55" alt="Web design icon" />
 
-**Web Development**
+<strong>Web Development</strong>
 
 <sub>HTML · CSS · Frontend</sub>
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!--                  MY APPROACH                    -->
