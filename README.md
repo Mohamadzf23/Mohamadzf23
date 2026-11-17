@@ -1,12 +1,41 @@
-# 👋 Hi, I'm Mohamadreza Zafari
 
-### 🎓 B.Sc. in Computer Engineering
+<h1 align="center">Hi, I'm Mohamadreza Zafari 👋</h1>
 
-### 📊 Data Analyst | 🤖 Machine Learning & Deep Learning Enthusiast
+<h3 align="center">
+  Junior Data Scientist | Machine Learning Enthusiast | Web Developer
+</h3>
 
-I'm passionate about **Data Science, Machine Learning, and Deep Learning**, with an interest in building data-driven solutions and understanding the algorithms behind intelligent systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Exploring+Machine+Learning;Building+with+Python+and+Web+Technologies" alt="Typing SVG" />
+</p>
 
-My focus includes the complete machine learning workflow, from **data preprocessing and exploratory data analysis** to feature engineering, model development, evaluation, and optimization. I'm also expanding my knowledge of neural networks, computer vision, natural language processing, and large language models.
+<p align="center">
+  <a href="https://github.com/Mohamadzf23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamadzf23/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering graduate interested in **Data Science, Machine Learning, and Software Development**.
+
+I enjoy working with data, exploring machine learning algorithms, understanding the fundamentals behind intelligent systems, and building practical solutions.
+
+My experience and interests include:
+
+- 📊 Data Analysis and Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning and Predictive Modeling
+- 🧠 Neural Networks and Deep Learning Fundamentals
+- 🗄️ SQL and Database Management
+- 🌐 Web Development with HTML and CSS
+- 📈 Statistical Analysis and Model Evaluation
+
+I'm continuously learning and improving my skills through hands-on projects and experimentation.
 
 ---
 
@@ -15,110 +44,115 @@ My focus includes the complete machine learning workflow, from **data preprocess
 ### 🐍 Programming & Data Science
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=numpy" width="45" />
+  <img src="https://skillicons.dev/icons?i=pandas" width="45" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="45" />
 </p>
 
-**Python · NumPy · Pandas · Matplotlib · Seaborn**
-
----
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
 
 ### 🤖 Machine Learning
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="45" alt="Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="45" />
 </p>
 
-**Scikit-learn · Supervised Learning · Unsupervised Learning**
+`Scikit-learn` · `Supervised Learning` · `Unsupervised Learning` · `Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
 
----
+### 🧠 Neural Networks & Deep Learning
 
-### 🧠 Deep Learning & Neural Networks
+`Artificial Neural Networks (ANNs)` · `Perceptrons` · `Backpropagation` · `Gradient Descent` · `Activation Functions` · `Loss Functions` · `Optimization`
 
-**Core Concepts**
+Currently exploring:
 
-- Artificial Neural Networks (ANNs)
-- Perceptrons & Deep Neural Networks
-- Backpropagation & Gradient-Based Optimization
-- Activation Functions & Loss Functions
-- Adam & Gradient Descent
-- Batch Normalization & Dropout
-- Bias–Variance Trade-off & Generalization
+`Deep Learning` · `CNNs` · `Computer Vision` · `Transformers` · `NLP`
 
-**Areas of Study**
-
-- Convolutional Neural Networks (CNNs)
-- Computer Vision
-- Autoencoders & Variational Autoencoders (VAEs)
-- Natural Language Processing (NLP)
-- Word Embeddings & Word2Vec
-- Attention & Self-Attention
-- Transformer Architecture
-- BERT, GPT & Large Language Models (LLMs)
-- Vision Transformers (ViT)
-- Self-Supervised & Contrastive Learning
-
----
-
-### 🗄️ Databases & SQL
+### 🌐 Web Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-**SQL · PostgreSQL · MySQL · T-SQL**
+`HTML5` · `CSS3`
 
----
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+`SQL` · `PostgreSQL` · `MySQL` · `T-SQL`
 
 ### 🔧 Tools & Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
 </p>
 
-**Jupyter Notebook · Git · GitHub · Scikit-learn**
+`Git` · `GitHub` · `Jupyter Notebook` · `VS Code`
 
 ---
 
-## 💡 Areas of Interest
+## 🚀 Featured Projects
 
-- 📊 Data Analysis & Statistical Modeling
-- 🤖 Machine Learning & Predictive Analytics
-- 🧠 Deep Learning & Neural Networks
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- 🔤 Transformers & Large Language Models
-- ⚙️ Model Evaluation & Optimization
-- 🗄️ SQL & Database Management
+Some of my machine learning and data analysis projects:
+
+### 🏠 California Housing Price Prediction
+- Regression models for predicting house prices.
+- Data preprocessing, feature engineering, and model evaluation.
+- Comparing Linear Regression and tree-based models.
+
+🔗 [View Repository](https://github.com/Mohamadzf23/california-housing-ml)
+
+### 📊 Ames Housing Price Prediction
+- Exploratory Data Analysis and regression modeling.
+- Working with structured real-world housing data.
+- Feature analysis and model experimentation.
+
+🔗 [View Repository](https://github.com/Mohamadzf23/ames-housing-price-prediction)
+
+### 📈 Other Projects
+
+I also work on classification, anomaly detection, statistical analysis, and data exploration projects.
+
+🔗 [Explore All My Repositories](https://github.com/Mohamadzf23?tab=repositories)
 
 ---
 
-## 🚀 My Approach
+## 📚 Currently Learning
 
-I believe in **understanding the fundamentals and learning through practice**.
+- Advanced Machine Learning
+- Deep Learning and Neural Network Architectures
+- HTML & CSS for Web Development
+- Expanding my practical software development skills
 
-I enjoy exploring how machine learning algorithms work, understanding the mathematics behind model training, comparing different approaches, and improving model performance through systematic evaluation and experimentation.
+---
 
-My goal is to keep strengthening my skills in **Data Science, Machine Learning, and Deep Learning** while developing practical solutions to real-world problems.
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamadzf23&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamadzf23&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamadzf23&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://github.com/Mohamadzf23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamadzf23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
