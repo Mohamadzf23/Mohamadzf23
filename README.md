@@ -67,90 +67,84 @@ I'm also expanding my skills in **Web Development**, starting with HTML and CSS.
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
-<div align="center">
+<h2 align="center">⚡ Technology Stack</h2>
+<p align="center">
+  <sub>Tools and technologies I use to build and explore</sub>
+</p>
 
-## ◈ TECHNOLOGIES & TOOLS
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
 
-<sub>Technologies I work with and concepts I'm exploring</sub>
+### 🐍 Programming & Data
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/>
 
-### 🐍 Programming & Data Science
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=42C8F5"/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" />
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=42C8F5" />
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logoColor=39D0C8" />
-
-<br><br>
+</td>
+<td width="50%" align="center">
 
 ### 🤖 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="65" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Regression-0D1117?style=for-the-badge&logoColor=39D0C8" />
-<img src="https://img.shields.io/badge/Classification-0D1117?style=for-the-badge&logoColor=39D0C8" />
-<img src="https://img.shields.io/badge/Clustering-0D1117?style=for-the-badge&logoColor=39D0C8" />
+<img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Model_Evaluation-0D1117?style=flat-square&logoColor=39D0C8"/>
 
-### 🧠 Neural Networks & Deep Learning
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Neural_Networks-0D1117?style=for-the-badge&logoColor=39D0C8" />
-<img src="https://img.shields.io/badge/Backpropagation-0D1117?style=for-the-badge&logoColor=39D0C8" />
-<img src="https://img.shields.io/badge/Gradient_Descent-0D1117?style=for-the-badge&logoColor=39D0C8" />
-
-<br>
-
-<sub>Exploring CNNs · Transformers · NLP · Computer Vision</sub>
-
-<br><br>
+<tr>
+<td width="50%" align="center">
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="65" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="45"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
 
-<br><br>
+</td>
+<td width="50%" align="center">
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="65" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" height="45"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/T--SQL-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/T--SQL-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
 
-<br><br>
+</td>
+</tr>
 
-### ⚙️ Tools & Environment
+<tr>
+<td colspan="2" align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="65" />
+### ⚙️ Development Environment
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
 
 <br>
+
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════ FOCUS SECTION ═══════════════ -->
 
